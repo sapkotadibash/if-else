@@ -19,8 +19,6 @@ public class corejava {
 		} else {
 			System.out.println("Cheap");
 		}
-Testing done. thanks
-my love
 	}
 
 }
