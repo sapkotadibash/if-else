@@ -19,8 +19,7 @@ public class corejava {
 		} else {
 			System.out.println("Cheap");
 		}
-//		THANK YOU
-//		tESTING WITH CMND PRMPT
+Testing done. thanks
 	}
 
 }
