@@ -19,7 +19,8 @@ public class corejava {
 		} else {
 			System.out.println("Cheap");
 		}
-		 TESTING- KINDLY REMOVE THIS TEST ONCE DONE TESTING
+//		THANK YOU
+//		tESTING WITH CMND PRMPT
 	}
 
 }
