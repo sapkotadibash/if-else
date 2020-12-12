@@ -20,6 +20,7 @@ public class corejava {
 			System.out.println("Cheap");
 		}
 Testing done. thanks
+my love
 	}
 
 }
